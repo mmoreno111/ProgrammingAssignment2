@@ -1,4 +1,4 @@
-## Create a special matrix, calculate inverse and cache it.
+## Create a special matrix, calculate or set inverse and cache it.
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
